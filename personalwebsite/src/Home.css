@@ -1,0 +1,30 @@
+.home {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100vw; /* Add this line */
+  height: 100vh; /* Change this line */
+  background-image: url('./images/websiteBackground.png');
+  background-repeat: no-repeat; /* Add this line */
+    background-position: center; /* Add this line */
+}
+  
+  .title {
+    font-size: 2.5em;
+    color: #ffffff;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+    font-weight: bold;
+  }
+
+  .Occupation{
+    font-size: 1.5em;
+    color: #ffffff;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+    font-weight: bold;
+  }
+  
+  .image {
+    width: 50%;
+    border-radius: 10px;
+  }

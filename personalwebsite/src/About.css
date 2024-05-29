@@ -1,0 +1,26 @@
+.about {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    background-color: #000000;
+    padding: 20px;
+  }
+  
+  .about h1 {
+    text-align: center;
+    text-decoration: underline;
+    color: #ffffff;
+    font-size: 3em;
+    margin-bottom: 20px;
+  }
+  
+  .about p {
+    color: #a8a8a8;
+    font-size: 1.2em;
+    margin-bottom: 10px;
+  }
+
+  .categories {
+    display: flex;
+    justify-content: space-evenly;
+  }
