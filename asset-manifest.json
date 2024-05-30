@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.fcb976ba.css",
-    "main.js": "/static/js/main.4d3984c8.js",
-    "static/js/453.55c3503c.chunk.js": "/static/js/453.55c3503c.chunk.js",
-    "static/media/Start Screen.png": "/static/media/Start Screen.90e0e47c150ab700ba18.png",
-    "static/media/websiteBackground.png": "/static/media/websiteBackground.df41900c7b8bac220044.png",
-    "static/media/blackjackImage.png": "/static/media/blackjackImage.d09f9c1d429715c4a7fd.png",
-    "static/media/linkedInLogo.png": "/static/media/linkedInLogo.3a55c30d758ea8746d77.png",
-    "static/media/githubLogo.png": "/static/media/githubLogo.a169a2614656ef1d36c0.png",
-    "static/media/pong-game-card.png": "/static/media/pong-game-card.fe14291fed121444af1a.png",
-    "index.html": "/index.html",
-    "main.fcb976ba.css.map": "/static/css/main.fcb976ba.css.map",
-    "main.4d3984c8.js.map": "/static/js/main.4d3984c8.js.map",
-    "453.55c3503c.chunk.js.map": "/static/js/453.55c3503c.chunk.js.map"
+    "main.css": "/Portfolio/personalwebsite/static/css/main.a7104784.css",
+    "main.js": "/Portfolio/personalwebsite/static/js/main.dfaf357e.js",
+    "static/js/453.55c3503c.chunk.js": "/Portfolio/personalwebsite/static/js/453.55c3503c.chunk.js",
+    "static/media/Start Screen.png": "/Portfolio/personalwebsite/static/media/Start Screen.90e0e47c150ab700ba18.png",
+    "static/media/websiteBackground.png": "/Portfolio/personalwebsite/static/media/websiteBackground.df41900c7b8bac220044.png",
+    "static/media/blackjackImage.png": "/Portfolio/personalwebsite/static/media/blackjackImage.d09f9c1d429715c4a7fd.png",
+    "static/media/linkedInLogo.png": "/Portfolio/personalwebsite/static/media/linkedInLogo.3a55c30d758ea8746d77.png",
+    "static/media/githubLogo.png": "/Portfolio/personalwebsite/static/media/githubLogo.a169a2614656ef1d36c0.png",
+    "static/media/pong-game-card.png": "/Portfolio/personalwebsite/static/media/pong-game-card.fe14291fed121444af1a.png",
+    "index.html": "/Portfolio/personalwebsite/index.html",
+    "main.a7104784.css.map": "/Portfolio/personalwebsite/static/css/main.a7104784.css.map",
+    "main.dfaf357e.js.map": "/Portfolio/personalwebsite/static/js/main.dfaf357e.js.map",
+    "453.55c3503c.chunk.js.map": "/Portfolio/personalwebsite/static/js/453.55c3503c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fcb976ba.css",
-    "static/js/main.4d3984c8.js"
+    "static/css/main.a7104784.css",
+    "static/js/main.dfaf357e.js"
   ]
 }
