@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.f66a0a19.css",
-    "main.js": "/Portfolio/static/js/main.0d342d15.js",
+    "main.js": "/Portfolio/static/js/main.45f78953.js",
     "static/js/453.55c3503c.chunk.js": "/Portfolio/static/js/453.55c3503c.chunk.js",
     "static/media/Start Screen.png": "/Portfolio/static/media/Start Screen.90e0e47c150ab700ba18.png",
     "static/media/websiteBackground.png": "/Portfolio/static/media/websiteBackground.df41900c7b8bac220044.png",
@@ -11,11 +11,11 @@
     "static/media/pong-game-card.png": "/Portfolio/static/media/pong-game-card.fe14291fed121444af1a.png",
     "index.html": "/Portfolio/index.html",
     "main.f66a0a19.css.map": "/Portfolio/static/css/main.f66a0a19.css.map",
-    "main.0d342d15.js.map": "/Portfolio/static/js/main.0d342d15.js.map",
+    "main.45f78953.js.map": "/Portfolio/static/js/main.45f78953.js.map",
     "453.55c3503c.chunk.js.map": "/Portfolio/static/js/453.55c3503c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f66a0a19.css",
-    "static/js/main.0d342d15.js"
+    "static/js/main.45f78953.js"
   ]
 }
