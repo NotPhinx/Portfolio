@@ -18,7 +18,7 @@ This is a personal portfolio website built using React, HTML, CSS, and JavaScrip
 ## How to Run Locally
 
 1. Clone the repository: `git clone https://github.com/NotPhinx/Portfolio.git`
-2. Navigate into the project directory: `cd portfolio`
+2. Navigate into the project directory: `cd personalwebsite`
 3. Install the dependencies: `npm install`
 4. Start the development server: `npm start`
 5. Open `http://localhost:3000` in your browser.
