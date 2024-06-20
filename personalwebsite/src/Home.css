@@ -3,11 +3,14 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  width: 100vw; /* Add this line */
-  height: 100vh; /* Change this line */
+  width: 100vw; 
+  height: 100vh; 
+  max-height:1080px;
+  max-width: 1920px;
   background-image: url('./images/websiteBackground.png');
-  background-repeat: no-repeat; /* Add this line */
-    background-position: center; /* Add this line */
+  background-repeat: no-repeat; 
+  background-position: center;
+  background-size: contain; 
 }
   
   .title {

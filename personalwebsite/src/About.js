@@ -4,8 +4,8 @@ import './About.css';
 // About.js
 
 function About() {
-    const programmingLanguages = ['C', 'C++', 'HTML', 'CSS', 'ReactJs', 'JavaScript', 'Python', 'Java'];
-    const frameworks = ['React', 'Node.js', 'Flask', 'Vue', 'Angular', 'MySQL', 'sqlite3'];
+    const programmingLanguages = ['C', 'C++', 'HTML', 'CSS', 'React.js', 'JavaScript', 'Python', 'Java', 'MatLab',];
+    const frameworks = ['React', 'Node.js', 'Flask', 'Vue', 'Angular', 'MySQL', 'sqlite3', 'React-native'];
 
 
     return (

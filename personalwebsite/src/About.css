@@ -18,9 +18,17 @@
     color: #a8a8a8;
     font-size: 1.2em;
     margin-bottom: 10px;
+    outline: 2px solid #ffffff;
+    padding: 10px;
+    border-radius: 10px;
+
   }
 
   .categories {
     display: flex;
     justify-content: space-evenly;
+    outline: 2px solid #ffffff;
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 10px;
   }

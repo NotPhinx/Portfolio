@@ -1,6 +1,6 @@
 import React from 'react';
 
-import './Home.css'; // Import your CSS file
+import './Home.css'; 
 
 function Home() {
     const name = "Ethan Binkley";
