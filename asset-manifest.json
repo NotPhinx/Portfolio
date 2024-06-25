@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.7a9ff78e.css",
-    "main.js": "/Portfolio/static/js/main.88c4dcdb.js",
+    "main.css": "/Portfolio/static/css/main.aa92b62f.css",
+    "main.js": "/Portfolio/static/js/main.8b19c951.js",
     "static/js/453.55c3503c.chunk.js": "/Portfolio/static/js/453.55c3503c.chunk.js",
     "static/media/Start Screen.png": "/Portfolio/static/media/Start Screen.90e0e47c150ab700ba18.png",
     "static/media/websiteBackground.png": "/Portfolio/static/media/websiteBackground.df41900c7b8bac220044.png",
+    "static/media/JobHub_logo_noBG.png": "/Portfolio/static/media/JobHub_logo_noBG.51a845bf3c80f2f0b1fa.png",
     "static/media/blackjackImage.png": "/Portfolio/static/media/blackjackImage.d09f9c1d429715c4a7fd.png",
     "static/media/linkedInLogo.png": "/Portfolio/static/media/linkedInLogo.3a55c30d758ea8746d77.png",
     "static/media/githubLogo.png": "/Portfolio/static/media/githubLogo.a169a2614656ef1d36c0.png",
     "static/media/pong-game-card.png": "/Portfolio/static/media/pong-game-card.fe14291fed121444af1a.png",
     "index.html": "/Portfolio/index.html",
-    "main.7a9ff78e.css.map": "/Portfolio/static/css/main.7a9ff78e.css.map",
-    "main.88c4dcdb.js.map": "/Portfolio/static/js/main.88c4dcdb.js.map",
+    "main.aa92b62f.css.map": "/Portfolio/static/css/main.aa92b62f.css.map",
+    "main.8b19c951.js.map": "/Portfolio/static/js/main.8b19c951.js.map",
     "453.55c3503c.chunk.js.map": "/Portfolio/static/js/453.55c3503c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7a9ff78e.css",
-    "static/js/main.88c4dcdb.js"
+    "static/css/main.aa92b62f.css",
+    "static/js/main.8b19c951.js"
   ]
 }
