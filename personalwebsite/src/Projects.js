@@ -5,6 +5,7 @@ import pongPicture from './images/pong-game-card.png';
 import useYourBrainPicture from './images/Start Screen.png';
 import blackjackPicture from './images/blackjackImage.png';
 import portfolioPicture from './images/websiteBackground.png';
+import jobhubNoBGPicture from './images/JobHub_logo_noBG.png';
 
 function Projects() {
   const projects = [
@@ -27,6 +28,13 @@ function Projects() {
       image: blackjackPicture,
       languages: 'Python, Pygame',
       github: 'https://github.com/NotPhinx/BlackJackRoguelike'
+    },
+
+    {
+      name: 'JobHub Web App',
+      image: jobhubNoBGPicture,
+      languages: 'React, React-Native, Expo-router, JavaScript, CSS',
+      github: 'https://github.com/NotPhinx/reactnative_jobboard'
     },
 
     {
