@@ -8,17 +8,17 @@
     color: white;
 }
 
-h2{
+.workExp h2{
     font-size: 2.5em;
     margin-bottom: 20px;
 }
-h3{
+.workExp h3{
     font-size: 2em;
     margin-bottom: 20px;
     
 }
 
-p{
+.workExp p{
     font-size: 1.5em;
     margin-bottom: 20px;
     color: grey
