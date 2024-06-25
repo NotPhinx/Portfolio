@@ -1,0 +1,39 @@
+.workExp{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    color: white;
+}
+
+h2{
+    font-size: 2.5em;
+    margin-bottom: 20px;
+}
+h3{
+    font-size: 2em;
+    margin-bottom: 20px;
+    
+}
+
+p{
+    font-size: 1.5em;
+    margin-bottom: 20px;
+    color: grey
+
+}
+
+.experience-tile{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 50px;
+    width: 80%;
+    background-color: #1a1a1a;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.2);
+}
