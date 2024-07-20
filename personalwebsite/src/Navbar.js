@@ -1,5 +1,5 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
+import { NavLink } from 'react-router-dom';
 import './Navbar.css';
 import githubImage from './images/githubLogo.png'; // Relative path from current file to image
 import linkedinImage from './images/linkedInLogo.png'; // Relative path from current file to image
@@ -9,11 +9,11 @@ function Navbar() {
     <nav className="navbar">
       <div>
         <ul>
-          <li><Link to="/">Home</Link></li>    
-          <li><Link to="/about">About</Link></li>
-          <li><Link to="/workExp">Work Experience</Link></li>
-          <li><Link to="/projects">Projects</Link></li>
-          <li><Link to="/contact">Contact</Link></li>
+          <li><NavLink exact to="/" activeClassName="active">Home</NavLink></li>    
+          <li><NavLink to="/about" activeClassName="active">About</NavLink></li>
+          <li><NavLink to="/workExp" activeClassName="active">Work Experience</NavLink></li>
+          <li><NavLink to="/projects" activeClassName="active">Projects</NavLink></li>
+          <li><NavLink to="/contact" activeClassName="active">Contact</NavLink></li>
         </ul>
       </div>
       <div className="navbar-icons">

@@ -47,7 +47,7 @@ function Projects() {
 
   return (
     <div className="projects">
-      <h1>Projects</h1>
+      <header>Projects</header>
       {projects.map((project) => (
         <div className="project-tile" key={project.name}>
           <a href={project.github} target="_blank" rel="noopener noreferrer">

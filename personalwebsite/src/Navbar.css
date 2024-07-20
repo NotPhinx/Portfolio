@@ -15,7 +15,7 @@
   
   .navbar li a {
     display: block;
-    color: white;
+    color: rgb(255, 255, 255);
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -23,6 +23,7 @@
   
   .navbar li a:hover {
     background-color: #111;
+    border-radius: 10px;
   }
   .navbar img {
     width: 50px;
@@ -36,3 +37,11 @@
     display: flex;
     align-items: center;
   }
+
+  .navbar li a.active{
+    background-color: white;
+    border-radius: 10px;
+    color: black;
+  }
+
+  
